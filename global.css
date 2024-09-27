@@ -1,0 +1,173 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Pallet Styles */
+
+body {
+  background-color: #000000;
+  color: #e0e0e0;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.subheading {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.body {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+p {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.caption {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.small {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+caption {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+button {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+.btn {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+a {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+.link {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    background-color: #1A1A1A;
+}
+
+.papr {
+    font-family: "Dancing Script", Arial, Helvetica, sans-serif;
+}
+
+#username {
+  color: #FF4081;
+  margin: 0;
+  padding: 0;
+}
+
+.btn-primary {
+  background-color: #FF4081;
+  color: #FFFFFF;
+  transition: 0.2s;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #D5006D;
+}
+
+.btn-secondary {
+  background-color: #2196F3;
+  color: #FFFFFF;
+  transition: 0.2s;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #1976D2;
+}
+
+.btn-danger {
+  background-color: #FF1744;
+  color: #FFFFFF;
+  transition: 0.2s;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #D50000;
+}
+
+.custom-swal-popup {
+  background-color: #1A1A1A;
+  color: #E0E0E0;
+}
+
+.custom-confirm-button {
+  background-color: #FF4081;
+  color: #FFFFFF;
+  transition: 0.2s;
+}
+
+.custom-confirm-button:hover {
+  background-color: #D5006D;
+}
+
+.custom-cancel-button {
+  background-color: #757575;
+  color: #E0E0E0;
+  transition: 0.2s;
+}
+
+.custom-cancel-button:hover {
+  background-color: #616161;
+}
